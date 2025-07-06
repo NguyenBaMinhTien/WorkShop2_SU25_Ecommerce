@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/web/warrantyForm.jsp</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/controllers/WarrantyController.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/dao/UserDAO.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/dto/DeliveryDTO.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/web/welcomeBuyer.jsp</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/dao/CategoryDAO.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/web/login.jsp</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/controllers/FAQController.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/controllers/UserController.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/dto/CustomerCaresDTO.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/controllers/ProductController.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/controllers/LoginController.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/web/welcomeDelivery.jsp</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/dao/DeliveryDAO.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/web/welcomeCS.jsp</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/controllers/ReturnController.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/web/delivery.jsp</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/web/viewCart.jsp</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/web/promotionList.jsp</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/dao/CartDAO.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/web/trackDeliveryForm.jsp</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/dao/WarrantyDAO.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/web/warrantyList.jsp</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/controllers/DeliveryController.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/controllers/InvoiceController.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/web/productList.jsp</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/web/viewFAQ.jsp</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/web/warrantyExtend.jsp</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/dao/CustomerCaresDAO.java</file>
+            <file>file:/D:/PRJ301/WorkShop2_SU25_Ecommerce/src/java/dto/WarrantyDTO.java</file>
+        </group>
+    </open-files>
+</project-private>
